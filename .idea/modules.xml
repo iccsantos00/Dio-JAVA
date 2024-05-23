@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection FrameworkAPI/Collection FrameworkAPI.iml" filepath="$PROJECT_DIR$/Collection FrameworkAPI/Collection FrameworkAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafiosEstruturas/DesafiosEstruturas.iml" filepath="$PROJECT_DIR$/DesafiosEstruturas/DesafiosEstruturas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Dio-jav.iml" filepath="$PROJECT_DIR$/.idea/Dio-jav.iml" />
